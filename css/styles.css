@@ -367,6 +367,7 @@ a {
     justify-content: center;
     background-color: transparent;
     border: 2px solid var(--color-brand-dark);
+    transition: background-color 0.2s;
 }
 
 .procedure-icon:hover {
